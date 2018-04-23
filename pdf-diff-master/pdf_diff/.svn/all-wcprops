@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projects/uobcm/!svn/ver/47925/trunk/uobcm/misc/docker/pdf-diff/pdf-diff-master/pdf_diff
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/projects/uobcm/!svn/ver/47925/trunk/uobcm/misc/docker/pdf-diff/pdf-diff-master/pdf_diff/__init__.py
+END
+command_line.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/projects/uobcm/!svn/ver/47925/trunk/uobcm/misc/docker/pdf-diff/pdf-diff-master/pdf_diff/command_line.py
+END
